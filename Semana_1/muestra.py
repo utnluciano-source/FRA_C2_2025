@@ -48,3 +48,4 @@ numero_2 = int("Ingrese otro número: ")
 
 print(f"El resultado de la suma es: {numero_1 + numero_2}, y la resta es: {numero_1 - numero_2}")
 
+s
