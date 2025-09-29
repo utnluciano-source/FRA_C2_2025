@@ -106,7 +106,7 @@ def ordenar_por_libros(nombres, libros, comentarios, cantidad):
         print(f"  Comentario: {comentarios[i]}")
 
 # ============================================
-# PROGRAMA PRINCIPAL (MAIN)
+# PROGRAMA PRINCIPAL 
 # ============================================
 cantidad = 0
 
